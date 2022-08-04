@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NazrinTaghyeva</h1>
+<h1 align="center">Hi 👋, I'm Nazryn</h1>
 <h3 align="center">I am backend developer from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **JAVA,SPRING,SQL**
